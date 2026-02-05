@@ -1,4 +1,8 @@
-<h1 align="center">👋 Hi, I'm Firaol Desalegn</h1>
+<h1 align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="10">
+    👋 Hi, I'm Firaol Desalegn
+  </marquee>
+</h1>
 <h3 align="center">3rd Year Computer Science Student | Front-End Developer</h3>
 
 <p align="center">
