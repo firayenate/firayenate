@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Firaol Desalegn</h1>
-<h3 align="center">3rd Year Computer Science Student | Aspiring Software Developer</h3>
+<h3 align="center">3rd Year Computer Science Student | Aspiring Software & Front-End Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=firayenate&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 - 🎓 3rd Year Computer Science student  
-- 💻 Learning Web Development (HTML, CSS, JavaScript)  
+- 💻 Aspiring Front-End Developer (HTML, CSS, JavaScript)  
 - 🐍 Programming with Python  
 - 🌐 Networking basics with Cisco  
 - 🌱 Growing step by step every day  
