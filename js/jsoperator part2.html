@@ -1,0 +1,24 @@
+<html>
+    <body>
+        <h2>Assignment Operator</h2>
+        <p id="assign"></p>
+
+        <h2>Logical Operator</h2>
+        <p id="and"></p>
+        <p id="or"></p>
+        <p id="not"></p>
+        <script>
+            var x=20, y=4;
+           // document.getElementById("assign").innerHTML="x+=y="+(x+=y);
+           // document.getElementById("assign").innerHTML="x-=y="+(x-=y);
+           // document.getElementById("assign").innerHTML="x*=y="+(x*=y);
+           document.getElementById("assign").innerHTML="x/=y="+(x/=y);
+           // And   &&
+           //OR     ||
+           // NOT   !
+           document.getElementById("and").innerHTML=(30 < 5 && 45>5 );
+           document.getElementById("or").innerHTML=(3 > 5 || 45>5 );
+           document.getElementById("not").innerHTML=! (3 > 5 || 45>5 );
+        </script>
+    </body>
+</html>
