@@ -63,5 +63,7 @@
 
 ### 📫 Contact Me
 - 💼 GitHub: https://github.com/firayenate  
+- ✈️ Telegram: https://t.me/firayenate  
+- 📸 Instagram: https://instagram.com/firanett  
 
 ⭐ <i>Thanks for visiting my profile!</i>
