@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=42B883&center=true&vCenter=true&width=600&lines=Front-End+Developer;Vue.js+Enthusiast;Building+Modern+Web+UIs;Learning+Every+Day;" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=42B883&center=true&vCenter=true&width=600&lines=Front-End+Developer;Vue.js+Enthusiast;Database+Learner;Building+Modern+Web+UIs;" />
 </p>
 
 <h2>🚀 Tech Stack</h2>
@@ -57,7 +57,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+
+<br><br>
+
+<b>🗄️ Databases</b><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
 
 <br><br>
 
