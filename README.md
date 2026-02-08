@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">
-  3rd Year Computer Science Student | Front-End Developer
+  3rd Year Computer Science Student | Front-End Developer (Vue.js)
 </h3>
 
 <p align="center">
@@ -21,19 +21,20 @@
 
 ### 🚀 About Me
 - 🎓 3rd Year Computer Science student  
-- 💻 Front-End Developer (HTML, CSS, JavaScript)  
+- 💻 Front-End Developer  
+- 🖼️ Building UI with **HTML, CSS, JavaScript & Vue.js**  
 - ☕ Programming with Java  
 - 🐍 Programming with Python  
 - 🌐 Networking basics with Cisco  
-- 🌱 Growing step by step every day  
+- 🌱 Learning and improving every day  
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 💻 Languages & Tools
+#### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,oracle,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,java,python,cpp,oracle,git,github" />
 </p>
 
 #### 🌐 Networking
