@@ -1,0 +1,29 @@
+a:link{
+    color: green;
+    background-color: transparent;
+    text-align: none;
+    text-decoration: none;
+}
+a:visited{
+    color: pink;
+    background-color: transparent;
+    text-align: none;
+}
+a:hover{
+    color: red;
+    background-color: transparent;
+    text-align: none;
+}
+a:active{
+    color: yellow;
+    background-color: transparent;
+    text-align: none;
+}
+.btn{
+    font-family: courier;
+    border:2px  solid tomato;
+    background-color: red;
+    margin:20%;
+    padding: 10%;
+    text-align: none;
+}
