@@ -22,7 +22,7 @@
     </text>
     <defs>
       <linearGradient id="grad">
-        <stop offset="0%" stop-color="#00bfff"/>
+        <stop offset="0%" stop-color="#42b883"/>
         <stop offset="50%" stop-color="#36BCF7"/>
         <stop offset="100%" stop-color="#ff6ec4"/>
       </linearGradient>
@@ -31,7 +31,7 @@
 </h1>
 
 <h3 align="center">
-  3rd Year Computer Science Student | Front-End Developer
+  3rd Year Computer Science Student | Front-End Developer (Vue.js)
 </h3>
 
 <p align="center">
@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=600&lines=Front-End+Developer;Database+Learner;Building+Modern+Web+UIs;Learning+Every+Day;" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=42B883&center=true&vCenter=true&width=600&lines=Front-End+Developer;Vue.js+Enthusiast;Building+Modern+Web+UIs;Learning+Every+Day;" />
 </p>
 
 <h2>🚀 Tech Stack</h2>
@@ -49,10 +49,11 @@
 <tr>
 <td valign="top">
 
-<b>💻 Languages</b><br><br>
+<b>💻 Languages & Frameworks</b><br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
@@ -62,7 +63,6 @@
 <b>🗄️ Databases</b><br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
 
 <br><br>
 
@@ -105,7 +105,7 @@
 </p>
 
 <p align="center">
-  <span style="font-size:30px; background: linear-gradient(90deg, #00bfff, #ff6ec4); -webkit-background-clip: text; color: transparent;">
+  <span style="font-size:30px; background: linear-gradient(90deg, #42b883, #36BCF7); -webkit-background-clip: text; color: transparent;">
     Connect with Me
   </span>
 </p>
