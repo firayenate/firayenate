@@ -1,0 +1,22 @@
+/* background color property specifies the background color */
+body{
+    /* background-color: lightblue; */
+    background-image: url(img/5d96e29cc3284c5e3b1387661c6c5ea4.jpg);
+        /* background-repeat: repeat-x; */
+        background-repeat: no-repeat;
+        background-position: right top;
+        background-attachment: fixed;
+        background-size: cover;
+}
+h1 {
+  /* background-color: green; */
+}
+
+div {
+  /* background-color: green; */
+  /* opacity: 0.3; */
+}
+
+p {
+  /* background-color: yellow; */
+}
