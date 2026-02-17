@@ -1,0 +1,22 @@
+#tomato{
+    background-color: tomato;
+}
+
+#orange{
+    background-color: orange;
+}
+#Doger{
+    background-color: dodgerblue;
+}
+#medium{
+    background-color: mediumseagreen;
+}
+#gray{
+    background-color: gray;
+}
+#Border{
+    border: 2px solid tomato;
+}
+#color{
+    color: brown;
+}
