@@ -4,7 +4,7 @@ body{
     background-image: url(img/5d96e29cc3284c5e3b1387661c6c5ea4.jpg);
         /* background-repeat: repeat-x; */
         background-repeat: no-repeat;
-        background-position: right top;
+        /* background-position: right top; */
         background-attachment: fixed;
         background-size: cover;
 }
