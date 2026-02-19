@@ -1,0 +1,25 @@
+#div{
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-left: 80px;
+    margin-right: 150px;
+    margin-bottom: 100px;
+    background-color: lightblue;
+}
+#dd{
+    border: 2px solid black;
+    margin: 25px 50px 75px 100px;
+    background-color: lightblue;
+}
+#aa{
+    border: 1px solid black;
+     margin: auto;
+     width: 100%;
+}
+div{
+    border:1px solid red;
+    margin-left: 100px;
+}
+p.ex1{
+    margin: inherit;
+}
