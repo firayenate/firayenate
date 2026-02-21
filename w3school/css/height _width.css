@@ -1,0 +1,22 @@
+#half{
+    height: 100px;
+    width:50%;
+    background-color: lightblue;
+    margin-bottom: 5px;
+}
+#full{
+    height: 100px;
+    width: 500px;
+    background-color: powderblue;
+}
+.div1{
+    max-width: 500px;
+    padding: 10px;
+    background-color: powderblue;
+
+}
+.div2{
+    width: 500px;
+    padding: 10px;
+    background-color: powderblue;
+}
