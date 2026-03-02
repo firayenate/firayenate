@@ -40,9 +40,14 @@
     }
     ">+3</button>
     <button onclick="
+     if (cartQuantity - 1 < 0) {
+        alert('Not enough items in the cart');
+      } else {
+       
     alert('Cart was reset.');
     cartQuantity = 0;
     console.log( `Cart quantity: ${cartQuantity}`);
+      }
     ">Reset Cart</button>
     <script>
       let cartQuantity = 0;
