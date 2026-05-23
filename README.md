@@ -31,7 +31,7 @@
 </h1>
 
 <h3 align="center">
-  3rd Year Computer Science Student | Front-End Developer (Vue.js)
+  3rd Year Computer Science Student | Full-Stack Developer | Vue.js • PHP • Python
 </h3>
 
 <p align="center">
@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=42B883&center=true&vCenter=true&width=600&lines=Front-End+Developer;Vue.js+Enthusiast;Building+Modern+Web+UIs;Learning+Every+Day;" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=42B883&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Vue.js+%7C+PHP+%7C+Python;Building+Modern+Web+Applications;Learning+Every+Day;" />
 </p>
 
 <h2>🚀 Tech Stack</h2>
@@ -50,23 +50,27 @@
 <td valign="top">
 
 <b>💻 Languages & Frameworks</b><br><br>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
 
 <br><br>
 
 <b>🗄️ Databases</b><br><br>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
 
 <br><br>
 
 <b>🛠 Tools & Platforms</b><br><br>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
@@ -88,6 +92,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firayenate&layout=compact&theme=radical"/>
 </td>
 </tr>
+
 <tr>
 <td>
 <img src="https://streak-stats.demolab.com?user=firayenate&theme=radical"/>
@@ -114,9 +119,11 @@
   <a href="https://github.com/firayenate" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/60/000000/github.png" width="40"/>
   </a>
+
   <a href="https://t.me/firayenate" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="40"/>
   </a>
+
   <a href="https://instagram.com/firanett" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="40"/>
   </a>
