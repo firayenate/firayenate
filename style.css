@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Noto+Sans+Ethiopic:wght@400;500;600;700&display=swap');
+
+:root {
+  --primary-blue: #0284c7;
+  --primary-dark: #0f172a;
+  --accent-teal: #06b6d4;
+  --accent-green: #10b981;
+}
+
+/* Ensure smooth scrolling and prevent horizontal jitter */
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', 'Noto Sans Ethiopic', sans-serif;
+  overflow-x: hidden;
+  width: 100%;
+  padding-bottom: env(safe-area-inset-bottom, 20px);
+}
+
+.font-ethiopic {
+  font-family: 'Noto Sans Ethiopic', 'Plus Jakarta Sans', sans-serif;
+  line-height: 1.6;
+}
+
+/* Glassmorphism Navigation */
+.glass-header {
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+}
+
+/* Water wave & gradient accents */
+.gradient-water {
+  background: linear-gradient(135deg, #0284c7 0%, #06b6d4 50%, #10b981 100%);
+}
+
+.gradient-water-text {
+  background: linear-gradient(135deg, #0284c7 0%, #0d9488 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Floating contact pulse */
+@keyframes softPulse {
+  0% { transform: scale(1); box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.5); }
+  70% { transform: scale(1.03); box-shadow: 0 0 0 12px rgba(16, 185, 129, 0); }
+  100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(16, 185, 129, 0); }
+}
+
+.pulse-button {
+  animation: softPulse 2.5s infinite;
+}
+
+/* Service card mobile optimization */
+.service-card {
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  touch-action: manipulation;
+}
+
+.service-card:active {
+  transform: scale(0.98);
+}
+
+@media (min-width: 1024px) {
+  .service-card:hover {
+    transform: translateY(-6px);
+  }
+}
+
+/* Prevent auto-zoom on iOS when tapping input fields */
+@media screen and (max-width: 768px) {
+  input, select, textarea {
+    font-size: 16px !important;
+  }
+}
+
+/* Floating mobile bottom navigation bar */
+.mobile-bottom-bar {
+  padding-bottom: calc(0.6rem + env(safe-area-inset-bottom, 0px));
+  box-shadow: 0 -4px 20px -2px rgba(0, 0, 0, 0.12);
+}
+
+/* Tap targets */
+.tap-highlight {
+  -webkit-tap-highlight-color: rgba(2, 132, 199, 0.15);
+}
